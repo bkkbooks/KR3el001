@@ -1,0 +1,1103 @@
+canonical_identifier: bkk:krp/KR3el001/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3el001/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 秘傳劉伯溫家藏接骨金瘡禁方
+  identifiers:
+    krp: KR3el001
+  tags:
+    kr-categories: KR3el
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el001.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3el001_000-jc.yaml, hash: 'sha256:c325c94f840870ddba2265b6e369f23dc33f89887da2712bbbc7227fb175f433'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el001_000-jc.markers.yaml, hash: 'sha256:15ca8209043f85edf87e840658a181fd496a7ca3d64bee80370a47b010308a8f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 336
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 810
+  label: 論跌治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4.h1s1
+    span:
+    - body
+    - 810
+    - 2407
+  label: 論鬥毆穴道
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d6
+    span:
+    - body
+    - 1346
+    - 1388
+  label: 行血歸經散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d7
+    span:
+    - body
+    - 1388
+    - 1437
+  label: 順氣散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d8
+    span:
+    - body
+    - 1437
+    - 1507
+  label: 掃腸丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d9
+    span:
+    - body
+    - 1507
+    - 1619
+  label: 護心七釐散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d10
+    span:
+    - body
+    - 1619
+    - 1692
+  label: 十三味行藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d11
+    span:
+    - body
+    - 1692
+    - 1746
+  label: 加減地黃丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d12
+    span:
+    - body
+    - 1746
+    - 1868
+  label: 接骨奪命丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d13
+    span:
+    - body
+    - 1868
+    - 1916
+  label: 接骨丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d14
+    span:
+    - body
+    - 1916
+    - 1974
+  label: 接骨丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d15
+    span:
+    - body
+    - 1974
+    - 2014
+  label: 接骨膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d16
+    span:
+    - body
+    - 2014
+    - 2109
+  label: 黎洞丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d17
+    span:
+    - body
+    - 2109
+    - 2155
+  label: 四骨散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d18
+    span:
+    - body
+    - 2155
+    - 2224
+  label: 地龍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d19
+    span:
+    - body
+    - 2224
+    - 2336
+  label: 趁痛丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d4d20
+    span:
+    - body
+    - 2336
+    - 2407
+  label: 閃腰挫氣方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d5.h1s1
+    span:
+    - body
+    - 2407
+    - 2850
+  label: 論治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d5d4
+    span:
+    - body
+    - 2585
+    - 2609
+  label: 續筋方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d5d5
+    span:
+    - body
+    - 2609
+    - 2631
+  label: 取箭頭入骨肉方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d5d6
+    span:
+    - body
+    - 2631
+    - 2850
+  label: 用藥歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d6.h1s1
+    span:
+    - body
+    - 2850
+    - 2913
+  label: 脈診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d7.h1s1
+    span:
+    - body
+    - 2913
+    - 3201
+  label: 辨生死
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d8.h1s1
+    span:
+    - body
+    - 3201
+    - 3583
+  label: 拔捺法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d9.h1s1
+    span:
+    - body
+    - 3583
+    - 3840
+  label: 修整法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d10.h1s1
+    span:
+    - body
+    - 3840
+    - 4029
+  label: 夾縛法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d11.h1s1
+    span:
+    - body
+    - 4029
+    - 4408
+  label: 醫治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12.h1s1
+    span:
+    - body
+    - 4408
+    - 10401
+  label: 宜忌類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d4
+    span:
+    - body
+    - 4725
+    - 4875
+  label: 洗藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d5
+    span:
+    - body
+    - 4875
+    - 4931
+  label: 內麻藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d6
+    span:
+    - body
+    - 4931
+    - 5002
+  label: 外麻藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d7
+    span:
+    - body
+    - 5002
+    - 5052
+  label: 桃花散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d8
+    span:
+    - body
+    - 5052
+    - 5121
+  label: 黑龍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d9
+    span:
+    - body
+    - 5121
+    - 5178
+  label: 調氣散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d10
+    span:
+    - body
+    - 5178
+    - 5259
+  label: 接骨丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d11
+    span:
+    - body
+    - 5259
+    - 5280
+  label: 續筋丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d12
+    span:
+    - body
+    - 5280
+    - 5300
+  label: 玉龍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d13
+    span:
+    - body
+    - 5300
+    - 5392
+  label: 上部末藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d14
+    span:
+    - body
+    - 5392
+    - 5533
+  label: 中部末藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d15
+    span:
+    - body
+    - 5533
+    - 5691
+  label: 下部末藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d16
+    span:
+    - body
+    - 5691
+    - 5746
+  label: 上部傷藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d17
+    span:
+    - body
+    - 5746
+    - 5790
+  label: 中部傷藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d18
+    span:
+    - body
+    - 5790
+    - 5836
+  label: 下部傷藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d19
+    span:
+    - body
+    - 5836
+    - 5857
+  label: 止血草藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d20
+    span:
+    - body
+    - 5857
+    - 6004
+  label: 膏藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d21
+    span:
+    - body
+    - 6004
+    - 6110
+  label: 收口膏藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d22
+    span:
+    - body
+    - 6110
+    - 6359
+  label: 活血住痛散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d23
+    span:
+    - body
+    - 6359
+    - 6403
+  label: 通利湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d24
+    span:
+    - body
+    - 6403
+    - 6460
+  label: 又方桃仁桔梗湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d25
+    span:
+    - body
+    - 6460
+    - 6496
+  label: 排風湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d26
+    span:
+    - body
+    - 6496
+    - 6542
+  label: 陰紅湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d27
+    span:
+    - body
+    - 6542
+    - 6600
+  label: 尋痛散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d28
+    span:
+    - body
+    - 6600
+    - 6655
+  label: 紫金散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d29
+    span:
+    - body
+    - 6655
+    - 6710
+  label: 麻黃散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d30
+    span:
+    - body
+    - 6710
+    - 6815
+  label: 消風散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d31
+    span:
+    - body
+    - 6815
+    - 6878
+  label: 龍骨散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d32
+    span:
+    - body
+    - 6878
+    - 6916
+  label: 寬筋湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d33
+    span:
+    - body
+    - 6916
+    - 6955
+  label: 內麻藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d34
+    span:
+    - body
+    - 6955
+    - 6974
+  label: 跌傷陰囊方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d35
+    span:
+    - body
+    - 6974
+    - 7115
+  label: 千金丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d36
+    span:
+    - body
+    - 7115
+    - 7222
+  label: 秘傳接骨君臣散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d37
+    span:
+    - body
+    - 7222
+    - 7237
+  label: 紫金散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d38
+    span:
+    - body
+    - 7237
+    - 7275
+  label: 黑神散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d39
+    span:
+    - body
+    - 7275
+    - 7365
+  label: 灰末藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d40
+    span:
+    - body
+    - 7365
+    - 7523
+  label: 玉龍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d41
+    span:
+    - body
+    - 7523
+    - 7584
+  label: 上部傷藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d42
+    span:
+    - body
+    - 7584
+    - 7637
+  label: 中部傷藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d43
+    span:
+    - body
+    - 7637
+    - 7700
+  label: 下部傷藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d44
+    span:
+    - body
+    - 7700
+    - 7738
+  label: 桂枝湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d45
+    span:
+    - body
+    - 7738
+    - 7779
+  label: 海桐皮散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d46
+    span:
+    - body
+    - 7779
+    - 7823
+  label: 蔓荊散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d47
+    span:
+    - body
+    - 7823
+    - 7878
+  label: 杏仁散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d48
+    span:
+    - body
+    - 7878
+    - 7920
+  label: 車前散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d49
+    span:
+    - body
+    - 7920
+    - 8005
+  label: 麝香膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d50
+    span:
+    - body
+    - 8005
+    - 8283
+  label: 收口膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d51
+    span:
+    - body
+    - 8283
+    - 8395
+  label: 藥酒方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d52
+    span:
+    - body
+    - 8395
+    - 8511
+  label: 內麻藥至寶方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d53
+    span:
+    - body
+    - 8511
+    - 8586
+  label: 一捻金
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d54
+    span:
+    - body
+    - 8586
+    - 8617
+  label: 血竭散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d55
+    span:
+    - body
+    - 8617
+    - 8655
+  label: 跌打服熱過多轉生痰熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d56
+    span:
+    - body
+    - 8655
+    - 8752
+  label: 附子湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d57
+    span:
+    - body
+    - 8752
+    - 8803
+  label: 損傷冒風四肢疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d58
+    span:
+    - body
+    - 8803
+    - 8851
+  label: 黃耆湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d59
+    span:
+    - body
+    - 8851
+    - 8862
+  label: 人咬傷方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d60
+    span:
+    - body
+    - 8862
+    - 8877
+  label: 抓破臉皮方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d61
+    span:
+    - body
+    - 8877
+    - 8893
+  label: 頭皮破出血不止方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d62
+    span:
+    - body
+    - 8893
+    - 8953
+  label: 跌傷風方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d63
+    span:
+    - body
+    - 8953
+    - 8973
+  label: 破傷風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d64
+    span:
+    - body
+    - 8973
+    - 9146
+  label: 勝金丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d65
+    span:
+    - body
+    - 9146
+    - 9187
+  label: 重傷方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d66
+    span:
+    - body
+    - 9187
+    - 9240
+  label: 一匙金
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d67
+    span:
+    - body
+    - 9240
+    - 9318
+  label: 杖丹膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d68
+    span:
+    - body
+    - 9318
+    - 9373
+  label: 火湯膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d69
+    span:
+    - body
+    - 9373
+    - 9503
+  label: 又膏方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d70
+    span:
+    - body
+    - 9503
+    - 9758
+  label: 鐵布衫丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d71
+    span:
+    - body
+    - 9758
+    - 9836
+  label: 胎骨丸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d72
+    span:
+    - body
+    - 9836
+    - 9893
+  label: 杖丹服法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d73
+    span:
+    - body
+    - 9893
+    - 9941
+  label: 杖打煎藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d74
+    span:
+    - body
+    - 9941
+    - 10004
+  label: 麻藥方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d75
+    span:
+    - body
+    - 10004
+    - 10046
+  label: 雞鳴散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d76
+    span:
+    - body
+    - 10046
+    - 10096
+  label: 傷元活血湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d77
+    span:
+    - body
+    - 10096
+    - 10142
+  label: 大承湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d78
+    span:
+    - body
+    - 10142
+    - 10185
+  label: 調中二陳湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d79
+    span:
+    - body
+    - 10185
+    - 10216
+  label: 奪命丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d80
+    span:
+    - body
+    - 10216
+    - 10249
+  label: 活血通氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d81
+    span:
+    - body
+    - 10249
+    - 10350
+  label: 跌打損傷危甚者用此
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el001_jc_000-d12d82
+    span:
+    - body
+    - 10350
+    - 10401
+  label: 藥酒方
+  type: section
+  level: 2
+hash: sha256:f44fc7868ec1bdf30b377b3cd9b864369fd755509f550f4390a4be7c8aa41b1d

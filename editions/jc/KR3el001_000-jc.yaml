@@ -1,0 +1,320 @@
+canonical_identifier: bkk:krp/KR3el001/jc/v1/juan/0
+seq: 0
+front:
+  text: 序體仁子曰是書何謂而秘稱禁書蓋緣外無獨秘故以禁書名之也非秘而不行之也所緣元胡久穢中土我朝太祖高皇帝愛念民生平胡滅虜掃蕩膻腥惟是諸臣不但恐懼所向無前然當破釜焚舟之後未免瘡痍困苦我太祖臨戎則心苦有切膚之痛故恆破錢糧鉅萬招致方外名人及諸奇醫並求接骨出鏃內傷跌僕金瘡種種異術遍尋起死回生之妙訣不待言而心懇切矣又擇選經驗者錄出成帙藏之禁中以為國家征伐鬥戰之備用時青田先生與聞國家大事君臣魚水而得禁藏於家予乃與裔孫松石翁交好數十年一日偶談岐黃之學因嘆青囊秘方不得復見於時翁云吾祖有禁方一冊等閒不以示人用之輒獲奇驗乃出是書授予視之書雖不多然皆出於岐黃外別傳秘方奇法非時醫所能覷其藩離者也予何幸而得之謹當世世寶之勿替也恐後之子孫不知或有遺棄之者故特序其所出之源流雲耳時宣德二年小春望日謹序
+  hash: sha256:1cb24412b81384d21e350d97b29e377bb3b5145c03e03ccb551b4800cad15f61
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3el001_jc_000-d2.h1s1}
+body:
+  text: 論跌治法凡人在高處跌下俗名倒栽蔥天靈蓋未破者可救如穿者三魂已散七魄全無神不歸位呼吸雖有是候死之症也治法灸丹田穴凡仰天跌下背脊骨斷者其人坐臥不寧雖然勢重其神不散急宜治之無妨若過七日而醫治則難以救之必喪黃泉也其治法必用空屋一間上有著力之處將帶懸之梁上以人扶起患者倒背將兩條腳帶從兩脅兜轉腳帶在臂上兜起懸空吊之前用兩條後用兩條即將人吊起其人自直用海板一塊長三尺許放於背上又另將腳帶胸前綁一道腰下綁一道內綁一道共三道連人帶板而綁其人一吊自直而就板綁之其直非常輕輕放下仰天而臥不可搖動用藥七服七日後輕輕將腳帶放下其板則不可去再用七日輕輕抽去板二十一日方可搖動其腰脊自接上也再以別藥以去其傷而並補之為妙僕心跌去有跌斷胸膀骨者即攙起仰臥不用動手即用接骨丹七服其骨自接不拘服藥其骨不斷者只用七釐散三服不拘服別藥而愈凡跌斷肋骨不用動手照前法而治之先以膏藥貼患處即用行傷打藥去盡瘀血後服接骨丹七服其骨凸出照後用藥酒去傷一月而愈凡頂骨跌斷而陷下者用鮮虎脂四兩川芎五錢酒煎服凡打碎頂門不可用草藥恐其潰爛宜用止血散摻之次服上部末藥凡食喉傷者不治傷氣喉者先用銀絲縫好外用草藥敷之日換二次候其皮肉併合方用生肌散外貼膏藥服上部末藥湯凡人腸出者用麻油以青布搭上候軟先用手托住腸子令人含水一口默向患人面上一噴其人一驚其腸自入用銀絲縫好外敷草藥內服中部末藥湯一法腸出者用原酒釀數斤以布浸透將布搭於腸上看腸上之布微微熱氣即泡熱薑湯與患人服下薑湯入處即能收進湯力行到其腸即收完矣若腸穿者可用鮮桑白皮打線縫好其肚上破處亦以此法縫之外以血竭末敷上自愈此法秘傳凡人指斷者須湊上用水蠟燭內膜包裹待內骨接上方用生肌散以膏藥貼之凡人身初跌損血出用草藥先內服上部末藥加接骨丹三分同服下凡中部初跌損先服中部末藥加接骨丹五分輕者七日後服煎藥重者二七日後服煎藥凡下身初跌損治法同中部服下部末藥凡人偶然閃挫損傷不拘周身上下各宜自裁治服或敷或貼或服藥等類如重者加接骨丹三分輕者則不可用也論鬥毆穴道凡鬥毆周身穴道難以盡述特纂其要智者當深察之不可忽也霸王開鎖一拳即咽喉下是也若悶者即在腦後百勞上一寸左手襯在穴上用右手不論輕重連打數下即醒如不醒激用艾灸之其穴在腦骨下一寸五分以麝香連灸四五次而醒即用順氣散如不醒則無救矣或灸丹田穴封喉在霸王開鎖下三寸用手橫打外去者是也如悶者在霸王開鎖穴下半寸用左手叉住頸項右手扳住頭往後一扳即醒後用順氣散兩氣眼在隔孔上下後氣眼照前氣眼是也打上氣眼悶倒者照前手襯打後氣眼打後氣眼還拳即打前氣眼打前上氣眼即打後下氣眼打後上氣眼即打前下氣眼若打左邊須打右邊若打右邊須打左邊若不醒照前法灸肩井穴醒後服順氣散打血海其穴往上第八根肋骨空所為下血海也第十根肋骨空所為中血海腋窩中間為上血海也若打下血海輕者三年死重者一年死再重者三月死打中血海輕者一年死重者半年死再重者兩月死打上血海輕者一月死重者五日死再重者即死其穴不拘上下左右打傷俱要吐鮮血而死急宜治之無妨即用行傷打藥行血十三味一帖為上後用歸血入筋藥若遲之則無救矣打霍肺其穴在下氣眼傍一寸是也內空而外實若拳打重者打進肋骨不拘幾根亦用十三味藥一帖後用接骨丹其骨自然凸出再用行藥補藥亦可肋骨不斷者亦用十三味一帖後用補肺丸為妙人參五錢白芍五錢厚朴五錢前胡一兩以上研為細末蜜丸如綠豆大每服一錢空心白滾水下行血歸經散打血海者用橘紅牛膝荊芥各五錢防己生地五加皮各一兩甘草川芎桔梗各三錢當歸四錢順氣散陳皮木香厚朴前胡神麯炒生地川芎石菖蒲五加皮白豆蔻杜仲鹽水炒以上各五錢共為細末每服一錢好酒送下掃腸丸打盤腸者用蘇木木通皂礬火煅五加皮各一兩紅花澤瀉前胡各五錢當歸三錢核桃肉半斤以上共為細末為丸如桐子大每服二十丸陳酒送下如大便出糞黑者不妨護心七釐散打翻肚並黑虎透心者用大凡打重者宜先服此藥一服接骨蟲不拘多少入壇內餓二日洗淨入酒釀內醉死曬乾為末備用鬧羊花不拘多少用燒酒浸透曬乾用人參桔梗棗仁甘草黃耆以上各等分為細末肥壯者每服三分瘦弱者每服二分酒沖臨臥時服下切宜避風十三味行藥方不拘重傷凡有瘀血者俱宜用紅花桃仁蘇木當歸松節五加皮骨碎補牛膝枳殼木通澤瀉前胡大生軍通草水煎空心服如行過以米粥湯補之如灸後則血熱可加黃柏加減地黃丸人參熟地猴姜當歸棗仁茯苓山藥枸杞杜仲牛膝生地山萸杏仁川斷破故紙共為末蜜丸桐子大每服三錢早晚白湯送下接骨奪命丹如死有微氣者灌入可治自然銅古老錢各醋煅七次各三錢地鱉蟲五錢黃麻根燒灰三錢大黃酒煎五錢桃仁當歸尾紅花各一錢骨碎補去毛酒蒸乳香沒藥血竭兒茶硃砂雄黃各三錢麝香五分共為細末入瓷瓶內以蠟封好勿令泄氣遇症有微氣者即用此藥元酒釀送下即活連進數服即愈接骨丹小拳雞一隻干拔去毛搗爛入官桂末再搗勻敷骨斷處一周時其骨接上矣即去之如時間過長恐生多骨而長出接骨丹作接骨膏亦可雞一隻去淨肉將全身骨酥油炙為末每服三錢酒送下又骨末三錢取熱雞血調敷患處再以生雞皮綁縛經一周時即去之接骨膏血餘胡椒百草霜虎骨各一錢麝香五釐共為末糯米煮粥搗勻敷患處若加生地地鱉蟲更妙黎洞丸牛黃三分大黃一錢天竺黃二錢雄黃一錢藤黃三分銅絲打燈火上燒鬱金二分人言二分白三七二錢唐魏一錢兒茶三錢共為末蜜丸每丸六分藏固聽用老人服一分壯者三分弱者二分幼小者一分女人壯者二分幼小者服一分四骨散治跌打損傷之後筋骨疼痛不能伸縮者雞骨節虎骨節犬骨節龍骨共為細末入下部末藥內服後用寬筋湯地龍散治夾打不痛並治筋骨疼痛地龍去淨土酒炒五分桑寄生一錢乳香沒藥去油各一分牛膝紅花木香各二錢歸尾羌活各二錢五分以上共為細末每服一錢熱酒送下趁痛丸治跌僕損傷及走注歷節諸風軟風疼痛等症草烏去皮臍一兩熟地或生地亦可南星半夏曲白僵蟲烏藥各五錢並曬乾為末酒糊為丸桐子大每服七丸空心日午臨臥溫酒送下如傷損處薑汁和酒研十丸塗患處猝中倒者薑汁青茶研化七丸灌下即醒若加地龍血竭尤妙閃腰挫氣方不拘年月淺深一服即效歸身羌活蠍尾骨碎補劉寄奴紅花莪朮沒藥研去油沖服赤芍丹皮澤蘭牛膝各一錢生地二錢甘草五錢桃仁一錢酒煎服取汗忌油煎發物論治法凡跌打損傷跌僕男人傷上部易治下部難療以氣上升故也女人傷下部者易治上部難療以血下降故也凡傷須驗在何處按其受傷深淺明其受毒久新男子氣從左轉屬陽女於血從右轉屬陰須辨明氣血之分為最要傷前體者死速傷背肩者死緩傷左邊者氣促面黃浮腫傷右邊者氣促而面少血其死症痰多者死眼白者死唇吊者死失枕者死糞者死口臭者死斜睹者死氣響者死喘急胸高者死耳鼻赤急者死飲食不進者皆屬死症也續筋方先將斷筋湊好相對用旋覆花汁塗之仍用搽敷包好取箭頭入骨肉方用巴豆蜣螂同搗敷之少頃發癢可取用藥歌阿膠兮女人聖藥藕節吐血之良方炒蒲黃嘔血可用骨斷兮須求土鱉薑黃破血能止血瘀血賴丹皮蘇木大黃便閉而可行生地黃善生新血破風不醒豨薟一味跌打後忌薑蔥麻油瘡不斂象皮血竭古錢三七為仙藥延胡索號曰神品無差手損兮桂枝急用瘀血在腸桃歸鬚下散腫兮荊芥為美止痛兮滴乳堪誇頭頂引以川芎足損須用牛膝補血止血兮猴姜消血積三稜莪朮理腰傷兮炒杜仲旋覆花續斷療筋見腫消能除青腫橄欖灰止血尤良柿霜餅血流者無殃烏藥二香順氣之良金刀澤蘭跌僕無雙後人若問作歌者卻是漢庭張子房脈診凡欲識跌打重傷死生必先察其六脈起者生遲細者生洪大者死堅強者生小弱者死大者二十日死若命脈和緩關脈實雖傷重不妨命脈虛促雖輕亦死辨生死凡跌打傷有不治者五不知痛癢兼發戰者一不治也天柱骨折及太陽二穴傷者二不治也小腹帶斷心傷破陰囊穿者三不治也傷食喉四不治也汗出如油盡力叫喊者五不治也凡人手足俱有兩脛若一脛斷者可治兩脛俱斷者則不治大抵骨碎與斷要看明傷處平正如何凡骨低是骨不曾傷左右再看方知傷處先須拔捺端正方用外藥凡認傷處則骨頭平正便見左右損處則相度骨縫仔細捻捺骨歸舊處頂門雖破骨未入內可治凡耳後受傷不治食飽受傷三日不死可治心胸緊痛青色未裹心此乃偏心受傷可治凡男子兩乳受傷可治宜急救之若女人則不治腹內受傷吐糞者不治凡氣出而不收兼眼不閉者不治凡腎子受傷入腹者不治正皮破未入腹者可治正心口青腫者不治挾脊斷者亦不治之症也拔捺法凡手腕出骱者醫人用左手仰掌托捻被傷手臂又用右手在下節手近處骱一把拿定不可讓其退縮盡力一扯即入故位方服接骨丹仍貼膏藥凡肩臂脫骱者令患者低處坐定自用兩手叉定抱膝上將膝借力一扯視其臂隨手直前輕輕放兩手就入骱方服接骨丹仍貼膏藥凡肩胛骨出用椅當圈住脅又用軟衣棉被鋪好再令人捉住兩手伸卻墜下手腕絹布縛之凡肩井骨在脅下有損不可夾縛須捺平正妥貼以黑龍散敷絹布包好脅骨亦如此凡手骨出須看如何出若骨向左者須向右捺入骨若向右則向左邊捺入凡腦骨碎輕輕用手捺平正若不破用烏龍散若破則用桃花散填口以絹包之不可著風水犯之則破傷風倘在發內宜剪去發敷藥凡跨骨從臀上出可用人挺定援伸方用足捺入若跨骨從襠內出則不可治矣凡傷重者大概要拔伸捺正或取開捺正然後用桃花散黑龍散再夾縛大抵拔伸要近處不可覆在第二節骨上凡拔伸全要相度左右骨如何出或當正拔伸者或當斜拔者凡拔伸或用一人或用三人要看傷勢輕重難易如何修整法凡骨跌折又出肉外折處兩頭必如鋒刀或長短不齊不能復入用麻藥麻定方用銼之或用小鋸鋸齊然後按入方用敷藥及膏外加棉紙數層再以粉板夾好過一二日換膏藥日進接骨丹兩服若遇熱天用清茶洗淨勿令阻氣若脛骨別出在內者難治在外者用手法推入舊處方服藥凡跌打腫處患者不肯令人著手摸者又腫硬難辨肉內骨之碎否必須以麻藥服之然後用手捻其腫處如骨肉有聲即是骨碎以刀割開如有血出再用止血散並麻藥麻住然後取出碎骨以別骨補好膏藥貼之外用油紙包好與淡鹽湯一杯服之待醒後再服接骨丹藥凡陰子跌出有血者先用桃仁散止血以線縫好再以膏貼之傷一月內尚可正理久則難治夾縛法凡夾縛夏二日冬四五日解開用溫水洗去舊藥洗時不可驚動傷處仍用黑龍散敷凡平處骨碎皮不破可用黑龍散貼敷夾縛若曲折處其勢不可夾縛恐愈後不能伸曲可用黑龍散敷貼以便曲伸凡跌破以末藥敷口又用傘紙包好再用杉木皮縛定凡夾縛用杉木皮如指闊四邊排勻方用繩紮緊三五道宜粗如縛指須用苧麻若杉木皮用尿浸過方用凡腳膝蓋骨乃另生者如跌碎或跌出者當用物做成一箍如蓋骨大蓋在上面以長帶縛定外用護膝又縛如日去之醫治法凡重傷必用藥水洗過敷藥輕者不洗亦可凡腹破腸出者醫得其法一日不死醫者先用麻油搽手然後送腸納入倘若腸出外風吹而腸脹幹不入即將麻油搽腸滋潤又用一人托住其腸再用一人暗含冷水一口當面一噴其人必驚而托腸之人要乘勢將腸一推推入自然收好即捻定傷口用銀絲或絲線縫口先用止血散後貼收口膏藥少頃腹內作響乃腸復位腸雖歸復內中傷否目力難知即取火酒一小杯令患者飲之使人嗅其傷處若聞火酒氣味其傷不可治矣線縫時不可露一毫針孔如稍露亦不可治慎之凡頭顱骨破碎雖白漿流出不在太陽穴邊可治用上部末藥倍加黃荊子或有孔血出不止先用血見愁杵爛搽上日換二次孔小貼膏藥孔大則搽三日見紅色見紅色加收口藥加在膏藥上貼之凡出血用桃花散不止可用三七塞之另圍桃花散凡骨碎筋斷皮破破處俱用桃花散塗四邊縫好以黑龍散敷之凡打後作痛宜用大黃五錢桃仁三錢杏仁三錢歸尾一錢甘草梢五錢酒煎空心服凡大小便不通用通理湯或川芎蘇木湯宜忌類凡渾身無故作痛宜服排風湯凡服傷損藥須忌生冷牛羊一切發物服藥必乘熱服使血行運而骨易接凡跌打處痛腫此是血凝住宜用熱藥湯洗之外敷黑龍散凡皮里有碎骨宜用黑龍散久骨自出凡傷重宜服順氣散不可遽服接骨丹藥等類凡傷不拘輕重忌服草藥犯之即取出不能如舊凡跌打後大便不通忌服接骨丹炒藥熱爆又兼酒調則反助火益勢且服四物湯待其勢定如大便不通宜用承氣湯加木通朴硝以通為度方服接骨丹凡頂骨碎不可用草藥宜以止血散搽之內服上部末藥又用鮮蟹虎骨四兩川芎五錢用好酒煎服凡傷處最忌布絹包恐日後乾血膠黏難以換藥用油紙傘紙包好極妥安凡無藥處一時折骨宜權用糯米飯加酒藥薑蔥同搗熨斗熨熱包夾安好內服老酒使血不凝然後取藥醫治凡正骨骨整用烏龍散敷四圍桃花散敷填瘀口次用傘紙包好夾縛洗藥方骨斷皮破者先用此藥煎湯洗後方服麻藥赤芍藥五錢延胡索五錢當歸三錢肉桂三錢蒼朮一兩荊芥四兩外加防風槐枝花椒蔥艾共切片每服用一兩水五升加荷葉二片煎八分去渣淋洗內服麻藥方先用此藥麻倒方可以刀割開若血湧出以桃花散止之用外麻藥敷上使患者不知疼痛方可割至損處又用桃花散圍敷割處外邊再用收口膏藥貼好與淡鹽湯服之內麻藥方川烏三錢草烏三錢大半夏五錢南星五錢黃麻一錢鬧羊花九分酒浸七次蟾酥酒浸化一錢芋艿葉汁拌藥曬乾共為末每服八釐外麻藥方名芋艿散川烏一錢草烏一錢大半夏三錢南星三錢鬧羊花一錢黃麻根汁芋艿葉汁蓖麻根汁三葉汁拌藥曬乾須拌七次共為末醋調敷割肉或加雄黃少許蟾酥五分桃花散止血古石灰一升入牛膽內十七次大黃四兩入銅鍋內炒至灰如花色取出置地一夜而出火毒研末填疼口並及四邊黑龍散又名烏龍散穿山甲灰炒六兩丁皮六兩當歸二兩百草霜五錢枇杷葉去毛五錢共為細末焙收用時薑汁調和四邊油紙包好杉木皮縛緊服淡鹽湯待醒來服調氣散調氣散木香烏藥厚朴薑製白芷青皮杏仁去皮尖陳皮前胡蒼朮米泔水浸炒桔梗甘草梢加姜三片棗二枚水二鍾煎八分空心服次服接骨丹接骨丹土鱉蟲火酒醉死焙乾三錢自然銅火煅醋浸十四次三錢骨碎補去毛尖五錢血竭炙三錢當歸尾酒洗五錢乳香去油三錢沒藥去油三錢硼砂二錢大半夏湯泡三錢共為細末每服一分陳酒送下續筋丹土鱉蟲三七血竭龍骨共為細末用唾津調搽玉龍散又名接骨丹人中白一味醋煅七次研末用上部末藥小川芎五錢蔓荊子二錢五分赤芍四錢白芷四錢歸尾四錢以上共為細末每服七分加麻油炒黃荊子三分若重傷加接骨丹三分酒調飽腹服下輕傷只用接骨丹一分一方加升麻二錢五分仙人紫五分煅酒送蔥頭過服中部末藥杜仲童便浸炒五錢赤茯苓六錢生地六錢秦艽六錢桃仁三錢紅花三錢延胡索六錢歸尾八錢赤芍五錢紫荊皮酒拌炒一兩共為末每服一錢加炒荊子五分若重傷加接骨丹五分輕傷加接骨丹三分酒調半飢飽送下又一方去延胡白芷紫荊血梗桃仁紅花加甘草黃耆陳皮白朮血里梗臨服衝入炒黃荊子五錢仙人紫八分一日兩服姜過口下部末藥牛膝一兩黃荊子炒一兩當歸尾八錢防風七錢獨活七錢赤芍六錢秦艽六錢紫荊皮一兩過山龍一兩千年矮一兩海桐皮五錢薑黃五錢木瓜二錢共為細末每服一錢五分若重傷加接骨丹八分輕者五分和酒送下凡骨碎者以接骨丹加入若骨不碎斷只用玉龍散加入一方鐵線藤防風陳皮白芷各等分臨服加仙人紫一錢日兩服蔥白過口前藥失記血里梗無過山龍黃荊子紫荊皮上部傷藥川芎陳皮花粉茯苓白芷當歸蔓荊子防風赤芍五加皮黃麻花甘草過山龍或加升麻藁本南星威靈仙半夏姜三片水兩碗煎服中部傷藥杜仲紅花桃仁防風歸尾官桂甘草梢赤茯苓生地赤芍過山龍枳殼或加破故紙桔梗水酒煎半飢服下部傷藥牛膝肉桂五加皮生地海桐皮獨活秦艽赤芍防風防己歸尾甘草梢或加木瓜厚朴陳皮水酒煎空心服下止血草藥方血見愁三七馬蘭頭旱蓮草共搗爛塗敷膏藥方凡跌打骨碎皮破者不用片香二斤真麻油一兩當歸一兩紅花五錢白芷五錢川芎三錢蘇木三錢杜仲二錢破故紙二錢木瓜二錢牛膝五錢羌活五錢防風五錢荊芥五錢續斷五錢生地五錢五加皮二錢威靈仙三錢大黃一兩紫荊皮五錢麻黃五錢發灰五錢黃柏五錢苦參五錢黃氈四兩細料藥百草霜四兩乳香沒藥甘松山柰大黃各等分再加蔥薑汁各四腕收口膏藥方麻油一斤川芎一兩赤芍一兩防風一兩荊芥一兩白芷一兩大黃一兩黃柏八錢苦參八錢連芥八錢生地八錢銀花八錢白芨五錢白蘞五錢麻黃二錢天花粉二錢黃丹四兩水粉四兩細料藥珍珠海螵蛸血竭龍骨兒茶輕粉土鱉蟲共研細末撒在膏上貼活血住痛散肉桂歸尾甘草梢川芎杜仲木瓜虎骨羌活獨活乳香沒藥白芷生地烏藥水酒各一碗煎加童便服氣喘加沉香頭疼倍加川芎虛汗加麻黃根浮小麥白朮黃耆寒重加乾薑小便不通加車前子木通熱重加柴胡梔子仁笑不止加杜仲破故紙寒不退加人參白芍麻黃胸緊加枳殼桔梗熱不退加蓬芥梔子薄荷肚內有血塊加三稜莪朮香附語言恍惚暈去加硃砂遠志傷頭出血多加生地嘔吐飲食不進加藿香砂仁丁香半夏若痛不進飲食加人參口中血腥氣加阿膠如不止用生丁香嚼之口內吐出糞及食飽傷胃加丁香草果半夏砂仁如不效是腸斷出血周身麻木不知人事時或昏悶加倍人參或獨用參湯亦可通利湯大小便閉用歸尾紅花桃仁豬苓澤瀉桕木根甘草梢赤芍桔梗枳殼大黃芒硝車前子姜三片水酒煎服又方桃仁桔梗湯桃仁三十五粒桔梗杏仁大黃煨各七錢車前子當歸各五錢紅花蘇木芒硝各五錢木通豬苓澤瀉各三錢加姜三片水酒煎服排風湯肉桂赤芍白芍川當歸川芎蘚皮杏仁甘草獨活防風麻黃白茯苓姜三片水酒煎服陰紅湯治婦人傷瘀血不散腹脹大小便不通悶亂欲絕用此藥待瘀血盡後方用前藥阿膠發灰沒藥酒煎加童便服尋痛散骨斷折可常服閃腰亦可服乳香沒藥木香川芎歸尾杜仲肉桂續斷虎骨炭火煅火酒淬古銅錢火煅醋淬七次共研細末每服酒調服兩匙紫金散骨不碎折者可用紅肉消骨碎補無名異醋拌續斷歸尾牛膝桃仁蒲黃牡丹皮川芎杜仲蘇木紅花各等分共為末每服三錢酒送下麻黃散治破傷風發寒熱肉桂三分乾薑四分麻黃去節一分半夏薑製七分陳皮八分蒼朮五分桔梗七分川芎七分枳殼七分姜三片煎服消風散治破傷風牙關緊閉川當歸一錢川芎八分南星五分甘草七分防風七分陳皮八分羌活一錢半夏五分白芷八分芍藥八分升麻一錢桔梗五分加生薑三片煎服又方皂角末吹鼻內男左女右又方杏仁泡去皮尖搗爛火酒調敷患處又方蘿蔔葉搗爛包破處龍骨散治跌壞醫好後筋不伸雞骨節虎骨節犬骨節龍骨海桐皮各八錢共研末入下部末藥內加牛膝炒二兩黃荊子二兩續斷八分秦艽羌活川當歸各六錢寬筋湯治前症日進一服肉桂牛膝薑黃黃耆白茯苓獨活海桐皮川當歸川斷生地酒煎空心服內麻藥方川烏一錢草烏一錢雄黃二錢蟾酥七分芋葉七分半夏一錢黃麻花五分共為末敷肉上跌傷陰囊方古銅錢油胡桃共為細末陳酒送下千金丸專治跌打損傷血氣攻心作痛作悶或產後惡露不盡腸中如刀刺或月經不通小兒枕塊瘀血久成痞塊用童便半盅水半盅共煎七分少頃再進一服惡血自下男子受刑傷昏迷惡悶童便好酒送下小腸疝氣赤白痢疾用米醋合煎三滾加水一盅再煎七分溫服蒲黃炒一兩五靈脂醋炒一兩延胡索一兩木香五錢共為末醋糊丸重者五錢輕者三錢秘傳接骨君臣散黃末藥此係葉寶太家傳秘方白芷川芎桂枝酒拌杜仲酒炒牛膝酒炒各三錢續斷酒洗防風各二錢防己二錢獨活秦艽各五錢甘草梢一錢木瓜一錢花粉二錢共為末又將牡丹皮五錢薑黃一兩為末另加明黃末配延胡索六錢骨碎補四錢生地五錢紫金散紅末藥紫金皮一味醋炒為末黑神散黑末藥黃荊子香油炒為末瓷瓶收貯黑末藥名桃紅散痛甚加乳香炙沒藥炙血竭共研灰末藥名接骨丹與前方同土鱉蟲火酒醉死焙乾一錢骨碎補去毛一錢自然銅醋淬十四次三錢血竭炙三錢歸尾酒浸五錢乳香沒藥俱炙半夏湯泡三錢白硼砂二錢共研細末收貯新瘀血攻心加巴霜大黃末每服一分酒服玉龍散白末藥骨不斷者可用人中白一味醋煅研細用凡跌打損傷不甚傷骨不斷碎者用黃末藥八分紅末藥六分黑末藥八分桃花散五分白末藥二分姜五錢蔥白五莖取汁入酒內加麻油兩匙調服外貼膏藥凡跌打重傷骨碎折將危者先用灰末藥一服大黃用灰末藥一分配黃末藥加巴霜大黃末調下五分瘀血盡後去巴霜大黃用灰末藥一分配黃末藥八分紅末藥六分桃仁末五分酒調下上部傷藥凡頭破見髓俱可服川芎白芷桔梗羌活防風川當歸赤芍或加黃荊子生地五加皮甘草或加升麻藁本南星花粉蔓荊子再加姜三片水酒煎服中部傷藥凡手腰遍身傷俱可用杜仲桂枝紅花桃仁烏藥薑黃甘草丹皮生地赤芍歸尾續斷秦艽加皮或加補骨脂姜三片水酒煎服下部傷藥凡腿足傷俱可服牛膝獨活海桐皮肉桂防己歸尾赤芍甘草梢五加皮薑黃續斷生地丹皮防風紅花姜三片水酒煎服凡痛甚加乳香沒藥三部同用桂枝湯凡傷手者用桂枝歸尾獨活赤芍靈仙防風陳皮紅花生地防己五加皮赤茯苓水酒煎服海桐皮散傷足用歸尾赤芍生地防風陳皮木瓜牛膝防己赤茯苓肉桂五加皮天花粉海桐皮水酒煎服蔓荊散治跌打傷壞眼目瘀血脹腫疼痛難忍升麻白芷川芎蔓荊藁本甘草木賊生地紅花當歸白朮水酒煎服杏仁散治跌打瘀血在腹肚內作痛生地五錢桃仁去皮尖二錢杏仁去皮尖二錢歸身一錢甘草梢五錢水煎服如不散加柏子根三錢再服車前散治跌打後大小便不通木通車前大黃朴硝甘草梢歸尾生地桃仁紅花芍藥枳殼天門冬水酒煎服麝香膏骨碎皮破者不用紅花白芷桃仁牛膝歸尾桂枝杜仲續斷獨活防風生地荊芥大黃五加皮靈仙紫荊皮苦參黃柏發灰各三錢蔥薑汁各三碗黃占二兩百草霜一兩細藥麝香沒藥麻黃各三錢同研入膏攤貼收口膏皮破者可用大黃黃連黃芩苦參各一兩白松香二斤白醋四兩麻油十兩甘草節五錢先用麻油七兩留三兩看膏老嫩加減將大黃草節五味切片入鍋內略炒取起將松香溶化入炒過藥片同熬滾久以麻布濾去渣絞布須長六尺使人牽扯又用淨水一缸絞油須內水將膏在水中扯成塊取作三四塊仍漸漸入鍋內溶化其膏帶水氣油化必盛滿鍋鍋必用大者方妙倘鍋小火急膏滿急用大扇扇之自定切不可以水潑成恐傷人直待油化紅黃漸漸化盡其澄清如鏡面可照人方成膏又須滴入水中試老嫩如何以膏貼手不黏肉為度老者加油嫩者加松香看老嫩得宜以篩過百草霜收到膏再加細藥土鱉蟲一兩海螵蛸煮七次兒茶血竭龍骨各五錢珍珠一錢象皮煅五分乳香沒藥各一錢藥酒方治跌打損傷川當歸赤芍川芎牛膝杜仲紫荊皮何首烏威靈仙肉桂乳香沒藥薑黃虎骨獨活海桐皮五加皮生地烏藥桃仁紅花丹皮續斷防己甘草梢乾薑秦艽防風羌活落得打三七根地鱉蟲各五錢以絹袋盛之瓶內加好酒二十斤隔水煮三枝香取出早晚服之每日二次內麻藥至寶方凡俗整骨必先用麻藥將患者麻倒不知疼痛方可用利刀割開取出碎骨若血出來必以桃花散止之若有微痛再用外麻藥方可挫鋸修治整理如有缺欠以他骨補之又上續筋丹割處用桃花散圈割處用收口膏藥貼好方以淡鹽湯服又服一捻金內外麻藥方俱在前查用可也一捻金川當歸骨碎補生地牛膝五加皮放杖行桃仁紅花羌活獨活防風桔梗虎骨龜板肉桂靈仙甘草梢杜仲川芎黃荊子夫功皮乳香沒藥赤芍烏藥落得打上藥共為末每服三錢酒調下血竭散治跌打傷血從口出乾荷葉發灰茅根韭根血竭上各等分酒煎加童便跌打服熱過多轉生痰熱甘草肉桂細茶麻黃杏仁桔梗荊芥燈心水煎服如痰盛加半夏桑白皮附子湯治傷損少愈轉症傷寒或陰或陽宜進此藥若四肢俱冷是危症也若不受此藥乃不治之症川芎升麻麻黃木通藿香白朮紅花歸尾牛膝砂仁丁香各一錢五分紫蘇二錢甘草三分肉桂五分附子五分姜三片煨蔥頭三枚水煎服出汗為度損傷冒風四肢疼痛川芎桔梗生地歸尾牛膝紅花白芷紫蘇麻黃升麻甘草梢細辛橘紅香附赤芍木通肉桂白朮加蔥姜酒調服黃耆湯治接骨後日久無力不能行走人參黃耆白朮枸杞牛膝續斷肉桂當歸各等分甘草三分水兩盅煎八分空心服下人咬傷方栗子肉嚼爛敷之抓破臉皮方用輕粉生薑自然汁調敷頭皮破出血不止方用柿花搗爛敷患處跌傷風方木瓜甘草銀花蟬蛻殭蠶全蠍穿山甲防風白芷連芥花粉薄荷黃柏草仁黃芩酒煎服又方黃連黃柏黃芩白蘞梔子雞尾灰煎好加酒一杯服破傷風用豨薟草一味煎湯服用酒煎服名豨薟酒勝金丹肉桂童便浸二兩丹皮酒炒一兩歸尾酒洗七錢桃仁紅花赤芍烏藥延胡索薑黃酒浸各五錢乳香沒藥去油各一兩三稜蓬莪朮續斷酒浸各三錢香附便炒三錢劉寄奴澤瀉紫荊皮青皮砂仁炒各三錢生地酒浸三錢木香三錢甘草一錢射蟲研白用五分蒲黃三錢蘇木汁酒童便各一碗大黃膏一碗和藥為丸如圓眼大症重三丸輕者一丸須以大金箔為衣頭傷川芎湯下腰傷杜仲湯下足傷牛膝湯下上藥尋常酒下孕婦忌服重傷方桃仁厚朴枳殼桂皮生地紅花赤芍乳香沒藥大黃童便同酒煎服若口吐血須加側柏丹皮蒲黃一匙金古文錢醋煅七次大者一個地鱉蟲一錢乳香沒藥各三錢人中白五分五味和勻研末紅甜瓜子炒與上藥配對每服一匙酒下杖丹膏大黃黃柏紅花歸尾續斷蘇木肉桂獨活銀花白芷丹皮胎髮半夏赤芍連芥防風生地白芨白蘞骨碎補麻油六斤將前藥酒浸七日入內熬至枯色取起再熬至滴水成珠以飛丹三斤收成膏火湯膏細茶乳香沒藥小狗骨灰各一兩兒茶樟腦血竭象皮各五錢輕粉二錢麝香五分上共研入膏攪勻入瓦瓶內埋土中半月方可攤貼又膏方川烏草烏赤芍白芷白芨烏藥肉桂紅花骨碎補蘇木川芎各一兩大黃二兩紫荊皮四兩麻油三斤將藥切片浸七日入鍋內熬至黑色去渣下薑汁童便蔥汁苧根汁金不換汁各一碗再熬至滴水成珠取起稱過如重三斤半下飛丹一斤水粉半斤收成膏加乳香沒藥各七錢麝香一錢五分攪和冷收瓶內埋土中半月取貼鐵布衫丸乳香沒藥各一兩胎骨二錢自然銅醋煅十四次三錢地鱉蟲焙末五錢無名異酒洗一兩每味共研細末取用再加歸尾六兩蘇木節四兩好酒四碗童便二碗入砂鍋內慢火熬膏一碗去渣紅色砂糖半斤攪勻入前六味為丸如圓眼核大辰砂為衣每服二三丸好酒送下未杖前服有訣鐵布衫丸沒乳香胎骨蘇木自然良土鱉無名蜜為丸可救人間屈杖傷胎骨丸服杖後傷狗骨一條預收藏收入瓦罐加醋熬外用鹽泥固封良以鹽和水泥密塗文武火煅三枝香羊胎一個入罐中外口須用鹽泥封文武火煅用心看一枝香時用方同獨腳將軍亦加醋鹽泥封口入罐中文武火煅須用心一枝香時與前同取胎骨蜜丸焙末各自收貯如下胎骨丸方狗胎末一兩五錢羊胎末五錢三七末一兩獨腳將軍末一兩胎骨二錢五分烏梢蛇一條重二斤者取其膽一枚和入藥內又先搗紅棗為丸如芡實大硃砂為衣每服五丸陳酒送下朝夕服杖丹服法即用前下部末藥二錢加落得打草三錢空心陳酒送下若先服藥打無名異一錢五分便炒不拘多少極重者服此藥膿血從大便出矣杖打煎藥方厚朴三錢枳殼三錢歸尾三錢生蒲黃一錢桃仁三錢紅花一錢五分老酒煎空心服渣再煎打極重者二三服麻藥方此係不在寶書內鬧羊花五錢川烏二錢草烏二錢大半夏二錢川椒二錢胡椒二錢共為細末每服一分陳酒送下隨量飲酒醒則藥力已退即為麻汁藥雞鳴散治一切損傷血積疼痛難忍一兩大黃七粒桃五錢歸尾不相饒細酒煎來雞鳴服所有瘀血即時消傷元活血湯從高墜下脅肋痛楚難禁不省人事者用此活血花粉草柴胡大黃川甲與當歸紅花桃仁為細末小酒煎來敗血催大承湯跌撲瘀血深入臟腑昏沉不省者用此大承枳殼大黃硝蘇木紅花厚朴草木通當歸與陳皮水煎服之果為寶調中二陳湯行過宜服此藥調理補養理中陳腹半夏苓芎歸防芍草耆芩檳桔二和青紅花蘇木紫蘇木香烏奪命丹奪命丹內朴硝黃蘇木歸尾甘草良陳皮肉桂紅花等殼通乳沒共煎嗜活血通氣湯活血通氣青陳芍木香乳沒歸芎索紅花丹參並桂枝便酒同煎治跌磕跌打損傷危甚者用此乳香沒藥紅花各一錢土鱉蟲七個共為末重者一錢輕者五分陳酒送下出汗為度若金器重傷後或手足接骱後筋骨雖愈而不能伸屈者當用自然銅燜醋煅淬十次亦用陳酒送下隨量飲可也若不能伸曲者飲服後能徐徐伸曲也藥酒方紅花當歸生地續斷秦艽蘇木五加皮桃仁廣皮烏藥米仁虎骨蘇梗杜仲牛膝地骨皮各五錢加廣木香三錢好酒十斤浸
+  hash: sha256:4a968fbf9ab8e87495342ef59849785b909a046bb1f7f038f2e4db958de7d488
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3el001_jc_000-d3.h1s1}
+  - {type: 'tls:head', offset: 810, content: '', id: KR3el001_jc_000-d4.h1s1}
+  - {type: 'tls:div-start', offset: 1346, content: '', id: KR3el001_jc_000-d4d6, level: 2, head_text: 行血歸經散}
+  - {type: 'tls:head', offset: 1346, content: '', id: KR3el001_jc_000-d4.d6.h1s1}
+  - {type: 'tls:div-end', offset: 1388, content: '', id: KR3el001_jc_000-d4d6}
+  - {type: 'tls:div-start', offset: 1388, content: '', id: KR3el001_jc_000-d4d7, level: 2, head_text: 順氣散}
+  - {type: 'tls:head', offset: 1388, content: '', id: KR3el001_jc_000-d4.d7.h1s1}
+  - {type: 'tls:div-end', offset: 1437, content: '', id: KR3el001_jc_000-d4d7}
+  - {type: 'tls:div-start', offset: 1437, content: '', id: KR3el001_jc_000-d4d8, level: 2, head_text: 掃腸丸}
+  - {type: 'tls:head', offset: 1437, content: '', id: KR3el001_jc_000-d4.d8.h1s1}
+  - {type: 'tls:div-end', offset: 1507, content: '', id: KR3el001_jc_000-d4d8}
+  - {type: 'tls:div-start', offset: 1507, content: '', id: KR3el001_jc_000-d4d9, level: 2, head_text: 護心七釐散}
+  - {type: 'tls:head', offset: 1507, content: '', id: KR3el001_jc_000-d4.d9.h1s1}
+  - {type: 'tls:div-end', offset: 1619, content: '', id: KR3el001_jc_000-d4d9}
+  - {type: 'tls:div-start', offset: 1619, content: '', id: KR3el001_jc_000-d4d10, level: 2, head_text: 十三味行藥方}
+  - {type: 'tls:head', offset: 1619, content: '', id: KR3el001_jc_000-d4.d10.h1s1}
+  - {type: 'tls:div-end', offset: 1692, content: '', id: KR3el001_jc_000-d4d10}
+  - {type: 'tls:div-start', offset: 1692, content: '', id: KR3el001_jc_000-d4d11, level: 2, head_text: 加減地黃丸}
+  - {type: 'tls:head', offset: 1692, content: '', id: KR3el001_jc_000-d4.d11.h1s1}
+  - {type: 'tls:div-end', offset: 1746, content: '', id: KR3el001_jc_000-d4d11}
+  - {type: 'tls:div-start', offset: 1746, content: '', id: KR3el001_jc_000-d4d12, level: 2, head_text: 接骨奪命丹}
+  - {type: 'tls:head', offset: 1746, content: '', id: KR3el001_jc_000-d4.d12.h1s1}
+  - {type: 'tls:div-end', offset: 1868, content: '', id: KR3el001_jc_000-d4d12}
+  - {type: 'tls:div-start', offset: 1868, content: '', id: KR3el001_jc_000-d4d13, level: 2, head_text: 接骨丹}
+  - {type: 'tls:head', offset: 1868, content: '', id: KR3el001_jc_000-d4.d13.h1s1}
+  - {type: 'tls:div-end', offset: 1916, content: '', id: KR3el001_jc_000-d4d13}
+  - {type: 'tls:div-start', offset: 1916, content: '', id: KR3el001_jc_000-d4d14, level: 2, head_text: 接骨丹}
+  - {type: 'tls:head', offset: 1916, content: '', id: KR3el001_jc_000-d4.d14.h1s1}
+  - {type: 'tls:div-end', offset: 1974, content: '', id: KR3el001_jc_000-d4d14}
+  - {type: 'tls:div-start', offset: 1974, content: '', id: KR3el001_jc_000-d4d15, level: 2, head_text: 接骨膏}
+  - {type: 'tls:head', offset: 1974, content: '', id: KR3el001_jc_000-d4.d15.h1s1}
+  - {type: 'tls:div-end', offset: 2014, content: '', id: KR3el001_jc_000-d4d15}
+  - {type: 'tls:div-start', offset: 2014, content: '', id: KR3el001_jc_000-d4d16, level: 2, head_text: 黎洞丸}
+  - {type: 'tls:head', offset: 2014, content: '', id: KR3el001_jc_000-d4.d16.h1s1}
+  - {type: 'tls:div-end', offset: 2109, content: '', id: KR3el001_jc_000-d4d16}
+  - {type: 'tls:div-start', offset: 2109, content: '', id: KR3el001_jc_000-d4d17, level: 2, head_text: 四骨散}
+  - {type: 'tls:head', offset: 2109, content: '', id: KR3el001_jc_000-d4.d17.h1s1}
+  - {type: 'tls:div-end', offset: 2155, content: '', id: KR3el001_jc_000-d4d17}
+  - {type: 'tls:div-start', offset: 2155, content: '', id: KR3el001_jc_000-d4d18, level: 2, head_text: 地龍散}
+  - {type: 'tls:head', offset: 2155, content: '', id: KR3el001_jc_000-d4.d18.h1s1}
+  - {type: 'tls:div-end', offset: 2224, content: '', id: KR3el001_jc_000-d4d18}
+  - {type: 'tls:div-start', offset: 2224, content: '', id: KR3el001_jc_000-d4d19, level: 2, head_text: 趁痛丸}
+  - {type: 'tls:head', offset: 2224, content: '', id: KR3el001_jc_000-d4.d19.h1s1}
+  - {type: 'tls:div-end', offset: 2336, content: '', id: KR3el001_jc_000-d4d19}
+  - {type: 'tls:div-start', offset: 2336, content: '', id: KR3el001_jc_000-d4d20, level: 2, head_text: 閃腰挫氣方}
+  - {type: 'tls:head', offset: 2336, content: '', id: KR3el001_jc_000-d4.d20.h1s1}
+  - {type: 'tls:div-end', offset: 2407, content: '', id: KR3el001_jc_000-d4d20}
+  - {type: 'tls:head', offset: 2407, content: '', id: KR3el001_jc_000-d5.h1s1}
+  - {type: 'tls:div-start', offset: 2585, content: '', id: KR3el001_jc_000-d5d4, level: 2, head_text: 續筋方}
+  - {type: 'tls:head', offset: 2585, content: '', id: KR3el001_jc_000-d5.d4.h1s1}
+  - {type: 'tls:div-end', offset: 2609, content: '', id: KR3el001_jc_000-d5d4}
+  - {type: 'tls:div-start', offset: 2609, content: '', id: KR3el001_jc_000-d5d5, level: 2, head_text: 取箭頭入骨肉方}
+  - {type: 'tls:head', offset: 2609, content: '', id: KR3el001_jc_000-d5.d5.h1s1}
+  - {type: 'tls:div-end', offset: 2631, content: '', id: KR3el001_jc_000-d5d5}
+  - {type: 'tls:div-start', offset: 2631, content: '', id: KR3el001_jc_000-d5d6, level: 2, head_text: 用藥歌}
+  - {type: 'tls:head', offset: 2631, content: '', id: KR3el001_jc_000-d5.d6.h1s1}
+  - {type: 'tls:div-end', offset: 2850, content: '', id: KR3el001_jc_000-d5d6}
+  - {type: 'tls:head', offset: 2850, content: '', id: KR3el001_jc_000-d6.h1s1}
+  - {type: 'tls:head', offset: 2913, content: '', id: KR3el001_jc_000-d7.h1s1}
+  - {type: 'tls:head', offset: 3201, content: '', id: KR3el001_jc_000-d8.h1s1}
+  - {type: 'tls:head', offset: 3583, content: '', id: KR3el001_jc_000-d9.h1s1}
+  - {type: 'tls:head', offset: 3840, content: '', id: KR3el001_jc_000-d10.h1s1}
+  - {type: 'tls:head', offset: 4029, content: '', id: KR3el001_jc_000-d11.h1s1}
+  - {type: 'tls:head', offset: 4408, content: '', id: KR3el001_jc_000-d12.h1s1}
+  - {type: 'tls:div-start', offset: 4725, content: '', id: KR3el001_jc_000-d12d4, level: 2, head_text: 洗藥方}
+  - {type: 'tls:head', offset: 4725, content: '', id: KR3el001_jc_000-d12.d4.h1s1}
+  - {type: 'tls:div-end', offset: 4875, content: '', id: KR3el001_jc_000-d12d4}
+  - {type: 'tls:div-start', offset: 4875, content: '', id: KR3el001_jc_000-d12d5, level: 2, head_text: 內麻藥方}
+  - {type: 'tls:head', offset: 4875, content: '', id: KR3el001_jc_000-d12.d5.h1s1}
+  - {type: 'tls:div-end', offset: 4931, content: '', id: KR3el001_jc_000-d12d5}
+  - {type: 'tls:div-start', offset: 4931, content: '', id: KR3el001_jc_000-d12d6, level: 2, head_text: 外麻藥方}
+  - {type: 'tls:head', offset: 4931, content: '', id: KR3el001_jc_000-d12.d6.h1s1}
+  - {type: 'tls:div-end', offset: 5002, content: '', id: KR3el001_jc_000-d12d6}
+  - {type: 'tls:div-start', offset: 5002, content: '', id: KR3el001_jc_000-d12d7, level: 2, head_text: 桃花散}
+  - {type: 'tls:head', offset: 5002, content: '', id: KR3el001_jc_000-d12.d7.h1s1}
+  - {type: 'tls:div-end', offset: 5052, content: '', id: KR3el001_jc_000-d12d7}
+  - {type: 'tls:div-start', offset: 5052, content: '', id: KR3el001_jc_000-d12d8, level: 2, head_text: 黑龍散}
+  - {type: 'tls:head', offset: 5052, content: '', id: KR3el001_jc_000-d12.d8.h1s1}
+  - {type: 'tls:div-end', offset: 5121, content: '', id: KR3el001_jc_000-d12d8}
+  - {type: 'tls:div-start', offset: 5121, content: '', id: KR3el001_jc_000-d12d9, level: 2, head_text: 調氣散}
+  - {type: 'tls:head', offset: 5121, content: '', id: KR3el001_jc_000-d12.d9.h1s1}
+  - {type: 'tls:div-end', offset: 5178, content: '', id: KR3el001_jc_000-d12d9}
+  - {type: 'tls:div-start', offset: 5178, content: '', id: KR3el001_jc_000-d12d10, level: 2, head_text: 接骨丹}
+  - {type: 'tls:head', offset: 5178, content: '', id: KR3el001_jc_000-d12.d10.h1s1}
+  - {type: 'tls:div-end', offset: 5259, content: '', id: KR3el001_jc_000-d12d10}
+  - {type: 'tls:div-start', offset: 5259, content: '', id: KR3el001_jc_000-d12d11, level: 2, head_text: 續筋丹}
+  - {type: 'tls:head', offset: 5259, content: '', id: KR3el001_jc_000-d12.d11.h1s1}
+  - {type: 'tls:div-end', offset: 5280, content: '', id: KR3el001_jc_000-d12d11}
+  - {type: 'tls:div-start', offset: 5280, content: '', id: KR3el001_jc_000-d12d12, level: 2, head_text: 玉龍散}
+  - {type: 'tls:head', offset: 5280, content: '', id: KR3el001_jc_000-d12.d12.h1s1}
+  - {type: 'tls:div-end', offset: 5300, content: '', id: KR3el001_jc_000-d12d12}
+  - {type: 'tls:div-start', offset: 5300, content: '', id: KR3el001_jc_000-d12d13, level: 2, head_text: 上部末藥}
+  - {type: 'tls:head', offset: 5300, content: '', id: KR3el001_jc_000-d12.d13.h1s1}
+  - {type: 'tls:div-end', offset: 5392, content: '', id: KR3el001_jc_000-d12d13}
+  - {type: 'tls:div-start', offset: 5392, content: '', id: KR3el001_jc_000-d12d14, level: 2, head_text: 中部末藥}
+  - {type: 'tls:head', offset: 5392, content: '', id: KR3el001_jc_000-d12.d14.h1s1}
+  - {type: 'tls:div-end', offset: 5533, content: '', id: KR3el001_jc_000-d12d14}
+  - {type: 'tls:div-start', offset: 5533, content: '', id: KR3el001_jc_000-d12d15, level: 2, head_text: 下部末藥}
+  - {type: 'tls:head', offset: 5533, content: '', id: KR3el001_jc_000-d12.d15.h1s1}
+  - {type: 'tls:div-end', offset: 5691, content: '', id: KR3el001_jc_000-d12d15}
+  - {type: 'tls:div-start', offset: 5691, content: '', id: KR3el001_jc_000-d12d16, level: 2, head_text: 上部傷藥}
+  - {type: 'tls:head', offset: 5691, content: '', id: KR3el001_jc_000-d12.d16.h1s1}
+  - {type: 'tls:div-end', offset: 5746, content: '', id: KR3el001_jc_000-d12d16}
+  - {type: 'tls:div-start', offset: 5746, content: '', id: KR3el001_jc_000-d12d17, level: 2, head_text: 中部傷藥}
+  - {type: 'tls:head', offset: 5746, content: '', id: KR3el001_jc_000-d12.d17.h1s1}
+  - {type: 'tls:div-end', offset: 5790, content: '', id: KR3el001_jc_000-d12d17}
+  - {type: 'tls:div-start', offset: 5790, content: '', id: KR3el001_jc_000-d12d18, level: 2, head_text: 下部傷藥}
+  - {type: 'tls:head', offset: 5790, content: '', id: KR3el001_jc_000-d12.d18.h1s1}
+  - {type: 'tls:div-end', offset: 5836, content: '', id: KR3el001_jc_000-d12d18}
+  - {type: 'tls:div-start', offset: 5836, content: '', id: KR3el001_jc_000-d12d19, level: 2, head_text: 止血草藥方}
+  - {type: 'tls:head', offset: 5836, content: '', id: KR3el001_jc_000-d12.d19.h1s1}
+  - {type: 'tls:div-end', offset: 5857, content: '', id: KR3el001_jc_000-d12d19}
+  - {type: 'tls:div-start', offset: 5857, content: '', id: KR3el001_jc_000-d12d20, level: 2, head_text: 膏藥方}
+  - {type: 'tls:head', offset: 5857, content: '', id: KR3el001_jc_000-d12.d20.h1s1}
+  - {type: 'tls:div-end', offset: 6004, content: '', id: KR3el001_jc_000-d12d20}
+  - {type: 'tls:div-start', offset: 6004, content: '', id: KR3el001_jc_000-d12d21, level: 2, head_text: 收口膏藥方}
+  - {type: 'tls:head', offset: 6004, content: '', id: KR3el001_jc_000-d12.d21.h1s1}
+  - {type: 'tls:div-end', offset: 6110, content: '', id: KR3el001_jc_000-d12d21}
+  - {type: 'tls:div-start', offset: 6110, content: '', id: KR3el001_jc_000-d12d22, level: 2, head_text: 活血住痛散}
+  - {type: 'tls:head', offset: 6110, content: '', id: KR3el001_jc_000-d12.d22.h1s1}
+  - {type: 'tls:div-end', offset: 6359, content: '', id: KR3el001_jc_000-d12d22}
+  - {type: 'tls:div-start', offset: 6359, content: '', id: KR3el001_jc_000-d12d23, level: 2, head_text: 通利湯}
+  - {type: 'tls:head', offset: 6359, content: '', id: KR3el001_jc_000-d12.d23.h1s1}
+  - {type: 'tls:div-end', offset: 6403, content: '', id: KR3el001_jc_000-d12d23}
+  - {type: 'tls:div-start', offset: 6403, content: '', id: KR3el001_jc_000-d12d24, level: 2, head_text: 又方桃仁桔梗湯}
+  - {type: 'tls:head', offset: 6403, content: '', id: KR3el001_jc_000-d12.d24.h1s1}
+  - {type: 'tls:div-end', offset: 6460, content: '', id: KR3el001_jc_000-d12d24}
+  - {type: 'tls:div-start', offset: 6460, content: '', id: KR3el001_jc_000-d12d25, level: 2, head_text: 排風湯}
+  - {type: 'tls:head', offset: 6460, content: '', id: KR3el001_jc_000-d12.d25.h1s1}
+  - {type: 'tls:div-end', offset: 6496, content: '', id: KR3el001_jc_000-d12d25}
+  - {type: 'tls:div-start', offset: 6496, content: '', id: KR3el001_jc_000-d12d26, level: 2, head_text: 陰紅湯}
+  - {type: 'tls:head', offset: 6496, content: '', id: KR3el001_jc_000-d12.d26.h1s1}
+  - {type: 'tls:div-end', offset: 6542, content: '', id: KR3el001_jc_000-d12d26}
+  - {type: 'tls:div-start', offset: 6542, content: '', id: KR3el001_jc_000-d12d27, level: 2, head_text: 尋痛散}
+  - {type: 'tls:head', offset: 6542, content: '', id: KR3el001_jc_000-d12.d27.h1s1}
+  - {type: 'tls:div-end', offset: 6600, content: '', id: KR3el001_jc_000-d12d27}
+  - {type: 'tls:div-start', offset: 6600, content: '', id: KR3el001_jc_000-d12d28, level: 2, head_text: 紫金散}
+  - {type: 'tls:head', offset: 6600, content: '', id: KR3el001_jc_000-d12.d28.h1s1}
+  - {type: 'tls:div-end', offset: 6655, content: '', id: KR3el001_jc_000-d12d28}
+  - {type: 'tls:div-start', offset: 6655, content: '', id: KR3el001_jc_000-d12d29, level: 2, head_text: 麻黃散}
+  - {type: 'tls:head', offset: 6655, content: '', id: KR3el001_jc_000-d12.d29.h1s1}
+  - {type: 'tls:div-end', offset: 6710, content: '', id: KR3el001_jc_000-d12d29}
+  - {type: 'tls:div-start', offset: 6710, content: '', id: KR3el001_jc_000-d12d30, level: 2, head_text: 消風散}
+  - {type: 'tls:head', offset: 6710, content: '', id: KR3el001_jc_000-d12.d30.h1s1}
+  - {type: 'tls:div-end', offset: 6815, content: '', id: KR3el001_jc_000-d12d30}
+  - {type: 'tls:div-start', offset: 6815, content: '', id: KR3el001_jc_000-d12d31, level: 2, head_text: 龍骨散}
+  - {type: 'tls:head', offset: 6815, content: '', id: KR3el001_jc_000-d12.d31.h1s1}
+  - {type: 'tls:div-end', offset: 6878, content: '', id: KR3el001_jc_000-d12d31}
+  - {type: 'tls:div-start', offset: 6878, content: '', id: KR3el001_jc_000-d12d32, level: 2, head_text: 寬筋湯}
+  - {type: 'tls:head', offset: 6878, content: '', id: KR3el001_jc_000-d12.d32.h1s1}
+  - {type: 'tls:div-end', offset: 6916, content: '', id: KR3el001_jc_000-d12d32}
+  - {type: 'tls:div-start', offset: 6916, content: '', id: KR3el001_jc_000-d12d33, level: 2, head_text: 內麻藥方}
+  - {type: 'tls:head', offset: 6916, content: '', id: KR3el001_jc_000-d12.d33.h1s1}
+  - {type: 'tls:div-end', offset: 6955, content: '', id: KR3el001_jc_000-d12d33}
+  - {type: 'tls:div-start', offset: 6955, content: '', id: KR3el001_jc_000-d12d34, level: 2, head_text: 跌傷陰囊方}
+  - {type: 'tls:head', offset: 6955, content: '', id: KR3el001_jc_000-d12.d34.h1s1}
+  - {type: 'tls:div-end', offset: 6974, content: '', id: KR3el001_jc_000-d12d34}
+  - {type: 'tls:div-start', offset: 6974, content: '', id: KR3el001_jc_000-d12d35, level: 2, head_text: 千金丸}
+  - {type: 'tls:head', offset: 6974, content: '', id: KR3el001_jc_000-d12.d35.h1s1}
+  - {type: 'tls:div-end', offset: 7115, content: '', id: KR3el001_jc_000-d12d35}
+  - {type: 'tls:div-start', offset: 7115, content: '', id: KR3el001_jc_000-d12d36, level: 2, head_text: 秘傳接骨君臣散}
+  - {type: 'tls:head', offset: 7115, content: '', id: KR3el001_jc_000-d12.d36.h1s1}
+  - {type: 'tls:div-end', offset: 7222, content: '', id: KR3el001_jc_000-d12d36}
+  - {type: 'tls:div-start', offset: 7222, content: '', id: KR3el001_jc_000-d12d37, level: 2, head_text: 紫金散}
+  - {type: 'tls:head', offset: 7222, content: '', id: KR3el001_jc_000-d12.d37.h1s1}
+  - {type: 'tls:div-end', offset: 7237, content: '', id: KR3el001_jc_000-d12d37}
+  - {type: 'tls:div-start', offset: 7237, content: '', id: KR3el001_jc_000-d12d38, level: 2, head_text: 黑神散}
+  - {type: 'tls:head', offset: 7237, content: '', id: KR3el001_jc_000-d12.d38.h1s1}
+  - {type: 'tls:div-end', offset: 7275, content: '', id: KR3el001_jc_000-d12d38}
+  - {type: 'tls:div-start', offset: 7275, content: '', id: KR3el001_jc_000-d12d39, level: 2, head_text: 灰末藥}
+  - {type: 'tls:head', offset: 7275, content: '', id: KR3el001_jc_000-d12.d39.h1s1}
+  - {type: 'tls:div-end', offset: 7365, content: '', id: KR3el001_jc_000-d12d39}
+  - {type: 'tls:div-start', offset: 7365, content: '', id: KR3el001_jc_000-d12d40, level: 2, head_text: 玉龍散}
+  - {type: 'tls:head', offset: 7365, content: '', id: KR3el001_jc_000-d12.d40.h1s1}
+  - {type: 'tls:div-end', offset: 7523, content: '', id: KR3el001_jc_000-d12d40}
+  - {type: 'tls:div-start', offset: 7523, content: '', id: KR3el001_jc_000-d12d41, level: 2, head_text: 上部傷藥}
+  - {type: 'tls:head', offset: 7523, content: '', id: KR3el001_jc_000-d12.d41.h1s1}
+  - {type: 'tls:div-end', offset: 7584, content: '', id: KR3el001_jc_000-d12d41}
+  - {type: 'tls:div-start', offset: 7584, content: '', id: KR3el001_jc_000-d12d42, level: 2, head_text: 中部傷藥}
+  - {type: 'tls:head', offset: 7584, content: '', id: KR3el001_jc_000-d12.d42.h1s1}
+  - {type: 'tls:div-end', offset: 7637, content: '', id: KR3el001_jc_000-d12d42}
+  - {type: 'tls:div-start', offset: 7637, content: '', id: KR3el001_jc_000-d12d43, level: 2, head_text: 下部傷藥}
+  - {type: 'tls:head', offset: 7637, content: '', id: KR3el001_jc_000-d12.d43.h1s1}
+  - {type: 'tls:div-end', offset: 7700, content: '', id: KR3el001_jc_000-d12d43}
+  - {type: 'tls:div-start', offset: 7700, content: '', id: KR3el001_jc_000-d12d44, level: 2, head_text: 桂枝湯}
+  - {type: 'tls:head', offset: 7700, content: '', id: KR3el001_jc_000-d12.d44.h1s1}
+  - {type: 'tls:div-end', offset: 7738, content: '', id: KR3el001_jc_000-d12d44}
+  - {type: 'tls:div-start', offset: 7738, content: '', id: KR3el001_jc_000-d12d45, level: 2, head_text: 海桐皮散}
+  - {type: 'tls:head', offset: 7738, content: '', id: KR3el001_jc_000-d12.d45.h1s1}
+  - {type: 'tls:div-end', offset: 7779, content: '', id: KR3el001_jc_000-d12d45}
+  - {type: 'tls:div-start', offset: 7779, content: '', id: KR3el001_jc_000-d12d46, level: 2, head_text: 蔓荊散}
+  - {type: 'tls:head', offset: 7779, content: '', id: KR3el001_jc_000-d12.d46.h1s1}
+  - {type: 'tls:div-end', offset: 7823, content: '', id: KR3el001_jc_000-d12d46}
+  - {type: 'tls:div-start', offset: 7823, content: '', id: KR3el001_jc_000-d12d47, level: 2, head_text: 杏仁散}
+  - {type: 'tls:head', offset: 7823, content: '', id: KR3el001_jc_000-d12.d47.h1s1}
+  - {type: 'tls:div-end', offset: 7878, content: '', id: KR3el001_jc_000-d12d47}
+  - {type: 'tls:div-start', offset: 7878, content: '', id: KR3el001_jc_000-d12d48, level: 2, head_text: 車前散}
+  - {type: 'tls:head', offset: 7878, content: '', id: KR3el001_jc_000-d12.d48.h1s1}
+  - {type: 'tls:div-end', offset: 7920, content: '', id: KR3el001_jc_000-d12d48}
+  - {type: 'tls:div-start', offset: 7920, content: '', id: KR3el001_jc_000-d12d49, level: 2, head_text: 麝香膏}
+  - {type: 'tls:head', offset: 7920, content: '', id: KR3el001_jc_000-d12.d49.h1s1}
+  - {type: 'tls:div-end', offset: 8005, content: '', id: KR3el001_jc_000-d12d49}
+  - {type: 'tls:div-start', offset: 8005, content: '', id: KR3el001_jc_000-d12d50, level: 2, head_text: 收口膏}
+  - {type: 'tls:head', offset: 8005, content: '', id: KR3el001_jc_000-d12.d50.h1s1}
+  - {type: 'tls:div-end', offset: 8283, content: '', id: KR3el001_jc_000-d12d50}
+  - {type: 'tls:div-start', offset: 8283, content: '', id: KR3el001_jc_000-d12d51, level: 2, head_text: 藥酒方}
+  - {type: 'tls:head', offset: 8283, content: '', id: KR3el001_jc_000-d12.d51.h1s1}
+  - {type: 'tls:div-end', offset: 8395, content: '', id: KR3el001_jc_000-d12d51}
+  - {type: 'tls:div-start', offset: 8395, content: '', id: KR3el001_jc_000-d12d52, level: 2, head_text: 內麻藥至寶方}
+  - {type: 'tls:head', offset: 8395, content: '', id: KR3el001_jc_000-d12.d52.h1s1}
+  - {type: 'tls:div-end', offset: 8511, content: '', id: KR3el001_jc_000-d12d52}
+  - {type: 'tls:div-start', offset: 8511, content: '', id: KR3el001_jc_000-d12d53, level: 2, head_text: 一捻金}
+  - {type: 'tls:head', offset: 8511, content: '', id: KR3el001_jc_000-d12.d53.h1s1}
+  - {type: 'tls:div-end', offset: 8586, content: '', id: KR3el001_jc_000-d12d53}
+  - {type: 'tls:div-start', offset: 8586, content: '', id: KR3el001_jc_000-d12d54, level: 2, head_text: 血竭散}
+  - {type: 'tls:head', offset: 8586, content: '', id: KR3el001_jc_000-d12.d54.h1s1}
+  - {type: 'tls:div-end', offset: 8617, content: '', id: KR3el001_jc_000-d12d54}
+  - {type: 'tls:div-start', offset: 8617, content: '', id: KR3el001_jc_000-d12d55, level: 2, head_text: 跌打服熱過多轉生痰熱}
+  - {type: 'tls:head', offset: 8617, content: '', id: KR3el001_jc_000-d12.d55.h1s1}
+  - {type: 'tls:div-end', offset: 8655, content: '', id: KR3el001_jc_000-d12d55}
+  - {type: 'tls:div-start', offset: 8655, content: '', id: KR3el001_jc_000-d12d56, level: 2, head_text: 附子湯}
+  - {type: 'tls:head', offset: 8655, content: '', id: KR3el001_jc_000-d12.d56.h1s1}
+  - {type: 'tls:div-end', offset: 8752, content: '', id: KR3el001_jc_000-d12d56}
+  - {type: 'tls:div-start', offset: 8752, content: '', id: KR3el001_jc_000-d12d57, level: 2, head_text: 損傷冒風四肢疼痛}
+  - {type: 'tls:head', offset: 8752, content: '', id: KR3el001_jc_000-d12.d57.h1s1}
+  - {type: 'tls:div-end', offset: 8803, content: '', id: KR3el001_jc_000-d12d57}
+  - {type: 'tls:div-start', offset: 8803, content: '', id: KR3el001_jc_000-d12d58, level: 2, head_text: 黃耆湯}
+  - {type: 'tls:head', offset: 8803, content: '', id: KR3el001_jc_000-d12.d58.h1s1}
+  - {type: 'tls:div-end', offset: 8851, content: '', id: KR3el001_jc_000-d12d58}
+  - {type: 'tls:div-start', offset: 8851, content: '', id: KR3el001_jc_000-d12d59, level: 2, head_text: 人咬傷方}
+  - {type: 'tls:head', offset: 8851, content: '', id: KR3el001_jc_000-d12.d59.h1s1}
+  - {type: 'tls:div-end', offset: 8862, content: '', id: KR3el001_jc_000-d12d59}
+  - {type: 'tls:div-start', offset: 8862, content: '', id: KR3el001_jc_000-d12d60, level: 2, head_text: 抓破臉皮方}
+  - {type: 'tls:head', offset: 8862, content: '', id: KR3el001_jc_000-d12.d60.h1s1}
+  - {type: 'tls:div-end', offset: 8877, content: '', id: KR3el001_jc_000-d12d60}
+  - {type: 'tls:div-start', offset: 8877, content: '', id: KR3el001_jc_000-d12d61, level: 2, head_text: 頭皮破出血不止方}
+  - {type: 'tls:head', offset: 8877, content: '', id: KR3el001_jc_000-d12.d61.h1s1}
+  - {type: 'tls:div-end', offset: 8893, content: '', id: KR3el001_jc_000-d12d61}
+  - {type: 'tls:div-start', offset: 8893, content: '', id: KR3el001_jc_000-d12d62, level: 2, head_text: 跌傷風方}
+  - {type: 'tls:head', offset: 8893, content: '', id: KR3el001_jc_000-d12.d62.h1s1}
+  - {type: 'tls:div-end', offset: 8953, content: '', id: KR3el001_jc_000-d12d62}
+  - {type: 'tls:div-start', offset: 8953, content: '', id: KR3el001_jc_000-d12d63, level: 2, head_text: 破傷風}
+  - {type: 'tls:head', offset: 8953, content: '', id: KR3el001_jc_000-d12.d63.h1s1}
+  - {type: 'tls:div-end', offset: 8973, content: '', id: KR3el001_jc_000-d12d63}
+  - {type: 'tls:div-start', offset: 8973, content: '', id: KR3el001_jc_000-d12d64, level: 2, head_text: 勝金丹}
+  - {type: 'tls:head', offset: 8973, content: '', id: KR3el001_jc_000-d12.d64.h1s1}
+  - {type: 'tls:div-end', offset: 9146, content: '', id: KR3el001_jc_000-d12d64}
+  - {type: 'tls:div-start', offset: 9146, content: '', id: KR3el001_jc_000-d12d65, level: 2, head_text: 重傷方}
+  - {type: 'tls:head', offset: 9146, content: '', id: KR3el001_jc_000-d12.d65.h1s1}
+  - {type: 'tls:div-end', offset: 9187, content: '', id: KR3el001_jc_000-d12d65}
+  - {type: 'tls:div-start', offset: 9187, content: '', id: KR3el001_jc_000-d12d66, level: 2, head_text: 一匙金}
+  - {type: 'tls:head', offset: 9187, content: '', id: KR3el001_jc_000-d12.d66.h1s1}
+  - {type: 'tls:div-end', offset: 9240, content: '', id: KR3el001_jc_000-d12d66}
+  - {type: 'tls:div-start', offset: 9240, content: '', id: KR3el001_jc_000-d12d67, level: 2, head_text: 杖丹膏}
+  - {type: 'tls:head', offset: 9240, content: '', id: KR3el001_jc_000-d12.d67.h1s1}
+  - {type: 'tls:div-end', offset: 9318, content: '', id: KR3el001_jc_000-d12d67}
+  - {type: 'tls:div-start', offset: 9318, content: '', id: KR3el001_jc_000-d12d68, level: 2, head_text: 火湯膏}
+  - {type: 'tls:head', offset: 9318, content: '', id: KR3el001_jc_000-d12.d68.h1s1}
+  - {type: 'tls:div-end', offset: 9373, content: '', id: KR3el001_jc_000-d12d68}
+  - {type: 'tls:div-start', offset: 9373, content: '', id: KR3el001_jc_000-d12d69, level: 2, head_text: 又膏方}
+  - {type: 'tls:head', offset: 9373, content: '', id: KR3el001_jc_000-d12.d69.h1s1}
+  - {type: 'tls:div-end', offset: 9503, content: '', id: KR3el001_jc_000-d12d69}
+  - {type: 'tls:div-start', offset: 9503, content: '', id: KR3el001_jc_000-d12d70, level: 2, head_text: 鐵布衫丸}
+  - {type: 'tls:head', offset: 9503, content: '', id: KR3el001_jc_000-d12.d70.h1s1}
+  - {type: 'tls:div-end', offset: 9758, content: '', id: KR3el001_jc_000-d12d70}
+  - {type: 'tls:div-start', offset: 9758, content: '', id: KR3el001_jc_000-d12d71, level: 2, head_text: 胎骨丸方}
+  - {type: 'tls:head', offset: 9758, content: '', id: KR3el001_jc_000-d12.d71.h1s1}
+  - {type: 'tls:div-end', offset: 9836, content: '', id: KR3el001_jc_000-d12d71}
+  - {type: 'tls:div-start', offset: 9836, content: '', id: KR3el001_jc_000-d12d72, level: 2, head_text: 杖丹服法}
+  - {type: 'tls:head', offset: 9836, content: '', id: KR3el001_jc_000-d12.d72.h1s1}
+  - {type: 'tls:div-end', offset: 9893, content: '', id: KR3el001_jc_000-d12d72}
+  - {type: 'tls:div-start', offset: 9893, content: '', id: KR3el001_jc_000-d12d73, level: 2, head_text: 杖打煎藥方}
+  - {type: 'tls:head', offset: 9893, content: '', id: KR3el001_jc_000-d12.d73.h1s1}
+  - {type: 'tls:div-end', offset: 9941, content: '', id: KR3el001_jc_000-d12d73}
+  - {type: 'tls:div-start', offset: 9941, content: '', id: KR3el001_jc_000-d12d74, level: 2, head_text: 麻藥方}
+  - {type: 'tls:head', offset: 9941, content: '', id: KR3el001_jc_000-d12.d74.h1s1}
+  - {type: 'tls:div-end', offset: 10004, content: '', id: KR3el001_jc_000-d12d74}
+  - {type: 'tls:div-start', offset: 10004, content: '', id: KR3el001_jc_000-d12d75, level: 2, head_text: 雞鳴散}
+  - {type: 'tls:head', offset: 10004, content: '', id: KR3el001_jc_000-d12.d75.h1s1}
+  - {type: 'tls:div-end', offset: 10046, content: '', id: KR3el001_jc_000-d12d75}
+  - {type: 'tls:div-start', offset: 10046, content: '', id: KR3el001_jc_000-d12d76, level: 2, head_text: 傷元活血湯}
+  - {type: 'tls:head', offset: 10046, content: '', id: KR3el001_jc_000-d12.d76.h1s1}
+  - {type: 'tls:div-end', offset: 10096, content: '', id: KR3el001_jc_000-d12d76}
+  - {type: 'tls:div-start', offset: 10096, content: '', id: KR3el001_jc_000-d12d77, level: 2, head_text: 大承湯}
+  - {type: 'tls:head', offset: 10096, content: '', id: KR3el001_jc_000-d12.d77.h1s1}
+  - {type: 'tls:div-end', offset: 10142, content: '', id: KR3el001_jc_000-d12d77}
+  - {type: 'tls:div-start', offset: 10142, content: '', id: KR3el001_jc_000-d12d78, level: 2, head_text: 調中二陳湯}
+  - {type: 'tls:head', offset: 10142, content: '', id: KR3el001_jc_000-d12.d78.h1s1}
+  - {type: 'tls:div-end', offset: 10185, content: '', id: KR3el001_jc_000-d12d78}
+  - {type: 'tls:div-start', offset: 10185, content: '', id: KR3el001_jc_000-d12d79, level: 2, head_text: 奪命丹}
+  - {type: 'tls:head', offset: 10185, content: '', id: KR3el001_jc_000-d12.d79.h1s1}
+  - {type: 'tls:div-end', offset: 10216, content: '', id: KR3el001_jc_000-d12d79}
+  - {type: 'tls:div-start', offset: 10216, content: '', id: KR3el001_jc_000-d12d80, level: 2, head_text: 活血通氣湯}
+  - {type: 'tls:head', offset: 10216, content: '', id: KR3el001_jc_000-d12.d80.h1s1}
+  - {type: 'tls:div-end', offset: 10249, content: '', id: KR3el001_jc_000-d12d80}
+  - {type: 'tls:div-start', offset: 10249, content: '', id: KR3el001_jc_000-d12d81, level: 2, head_text: 跌打損傷危甚者用此}
+  - {type: 'tls:head', offset: 10249, content: '', id: KR3el001_jc_000-d12.d81.h1s1}
+  - {type: 'tls:div-end', offset: 10350, content: '', id: KR3el001_jc_000-d12d81}
+  - {type: 'tls:div-start', offset: 10350, content: '', id: KR3el001_jc_000-d12d82, level: 2, head_text: 藥酒方}
+  - {type: 'tls:head', offset: 10350, content: '', id: KR3el001_jc_000-d12.d82.h1s1}
+  - {type: 'tls:div-end', offset: 10401, content: '', id: KR3el001_jc_000-d12d82}
+metadata:
+  title: 秘傳劉伯溫家藏接骨金瘡禁方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el001.xml
+hash: sha256:c325c94f840870ddba2265b6e369f23dc33f89887da2712bbbc7227fb175f433
