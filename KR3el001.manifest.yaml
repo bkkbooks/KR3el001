@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el001_000.yaml, hash: 'sha256:eb2b74e8f733c1b76090d2d93d716ed8bb6b22850184d16e0c6c2640cbe2664c'}
+  - {seq: 0, filename: KR3el001_000.yaml, hash: 'sha256:c325c94f840870ddba2265b6e369f23dc33f89887da2712bbbc7227fb175f433'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el001_000.markers.yaml, hash: 'sha256:0672e3cb7e00c404a3607dd5c721858442b544eec72e51383025ecf9cb4ebed7'}
+  - {seq: 0, role: markers, filename: assets/KR3el001_000.markers.yaml, hash: 'sha256:9210c69d6c1a0bb7a52a0d0d0cbfd634d80842f25beb6ceda12d90708f5b064a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1100,7 +1100,4 @@ table_of_contents:
   label: 藥酒方
   type: section
   level: 2
-hash: sha256:4bb4db94559afdca64e6f5033b2e6dea35cf9c0463289833b95bb72b592bf3fa
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4cf8c26b6d67eb69f616c31661d2f5520c7b6f354468faeda21a864ebd901bcb
