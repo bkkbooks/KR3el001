@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el001_000.yaml, hash: 'sha256:4f388fe310677a072af1219dc362bf1c33fc43a9889ceca335cc12d458102ebe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el001_000.markers.yaml, hash: 'sha256:f4256c697dfc1330cd86afb624bc2b95de15aad93c4c24559f98f702b162975b'}
+  - {seq: 0, role: markers, filename: assets/KR3el001_000.markers.yaml, hash: 'sha256:8b70007f938ce73b538672660bcd896053916d1387e895c4aca7f6f95f079df7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1100,7 +1100,7 @@ table_of_contents:
   label: 藥酒方
   type: section
   level: 2
-hash: sha256:fcea3c57d5d538a3c95193d027315a366aaace834c86c8b6cc1e6054511c8964
+hash: sha256:fbfe171ca77d877d82aaa8a30d746bd18d9a3acf1fcb8f9dc601ee54c2e259f6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
